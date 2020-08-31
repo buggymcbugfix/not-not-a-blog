@@ -16,11 +16,16 @@ Below I import some nice words by other people.
 
 It now being thoroughly clear that I am embarrassed about my ¬¬blog, we can proceed to the
 
-## contents
+## posts
 
-* 2020-08-28: [Wrapping up Google Summer of Code](2020-08-28-gsoc/post.md) (ghc, haskell, summer of code, icfp, performance)
-* 2020-08-17: [Benchmarking the new `smallArrayOf#` primop](2020-08-17-array/post.md) (ghc, haskell, summer of code, performance)
+- 2020-08-28: [Wrapping up Google Summer of Code](blog/2020-08-28-gsoc/post.md) (ghc, haskell, summer of code, performance)
+- 2020-08-17: [Benchmarking the new `smallArrayOf#` primop](blog/2020-08-17-array/post.md) (ghc, haskell, summer of code, performance)
 
-## notes
+## talks
+
+- 2020-08-28: [From faster array primops to static data; or "I signed up for Summer of Haskell and ended up writing C!?"](talks/2020-08-28-hiw/abstract.md) (HIW@ICFP20)
+
+
+## meta
 
 If something looks wrong—feel free to open an issue, or (even better!) a merge request. Missing or inadequate support for screen readers is a critical bug, just as any other accessibility issue. Please let me know!
