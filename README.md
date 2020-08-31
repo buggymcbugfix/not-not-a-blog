@@ -18,8 +18,8 @@ It now being thoroughly clear that I am embarrassed about my ¬¬blog, we can pr
 
 ## contents
 
-* 2020-08-28: [Wrapping up Google Summer of Code](2020-08-28-gsoc.md) (ghc, haskell, summer of code, icfp, performance)
-* 2020-08-17: [Benchmarking the new `smallArrayOf#` primop](2020-08-17-array.md) (ghc, haskell, summer of code, performance)
+* 2020-08-28: [Wrapping up Google Summer of Code](2020-08-28-gsoc/post.md) (ghc, haskell, summer of code, icfp, performance)
+* 2020-08-17: [Benchmarking the new `smallArrayOf#` primop](2020-08-17-array/post.md) (ghc, haskell, summer of code, performance)
 
 ## notes
 

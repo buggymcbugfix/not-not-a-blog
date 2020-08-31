@@ -6,7 +6,7 @@ As part of my Summer of Haskell 2020 project I [implemented](https://gitlab.hask
 
 I benchmarked how long it takes to initialize a known-length `SmallArray#` with the new primop (blue). We compare this to the best (to our knowledge) previously available method which is fully unrolled array initialization via Template Haskell (green) and dynamic initialization in a (non-unrolled) loop (yellow). (Benchmarked on 16-core i9 MacBook Pro under macOS.)
 
-![A graph comparing the execution time for 3 array initialization methods, showing 3 fairly linear curves explained below. The graph is generated from the first two columns of data/output.csv.](data/arrayOf-benchmark.png)
+![A graph comparing the execution time for 3 array initialization methods, showing 3 fairly linear curves explained below. The graph is generated from the first two columns of output.csv.](arrayOf-benchmark.png)
 
 **We achieve a whopping ~2.5x for array initialization versus fully unrolled code and ~5x versus dynamic initialization!**
 

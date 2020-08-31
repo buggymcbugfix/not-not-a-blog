@@ -1,5 +1,7 @@
 # Wrapping up Google Summer of Code
 
+
+
 | Type      | Notes | Link                                                                                                                                                       |
 | --------- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Blog post |       | [https://github.com/buggymcbugfix/not-not-a-blog/blob/master/2020-08-17-array.md](github.com/buggymcbugfix/not-not-a-blog/blob/master/2020-08-17-array.md) |
